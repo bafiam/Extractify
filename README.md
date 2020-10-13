@@ -2,7 +2,7 @@
 
 ### Preview
 
-![Alt Text](/home/bafiam/microverse/Capstones/Extractify/Extractify.gif)
+![Alt Text](Extractify.gif)
 
 ### Problem Description
 
