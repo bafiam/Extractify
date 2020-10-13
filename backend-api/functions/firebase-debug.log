@@ -1,0 +1,13 @@
+[debug] [2020-10-06T07:42:19.058Z] ----------------------------------------------------------------------
+[debug] [2020-10-06T07:42:19.061Z] Command:       /usr/bin/node /usr/bin/firebase deploy --only functions --debug
+[debug] [2020-10-06T07:42:19.061Z] CLI Version:   8.11.2
+[debug] [2020-10-06T07:42:19.061Z] Platform:      linux
+[debug] [2020-10-06T07:42:19.062Z] Node Version:  v10.15.2
+[debug] [2020-10-06T07:42:19.062Z] Time:          Tue Oct 06 2020 10:42:19 GMT+0300 (East Africa Time)
+[debug] [2020-10-06T07:42:19.062Z] ----------------------------------------------------------------------
+[debug] [2020-10-06T07:42:19.062Z] 
+[debug] [2020-10-06T07:42:19.072Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-06T07:42:19.073Z] > authorizing via signed-in user
+[debug] [2020-10-06T07:42:19.073Z] [iam] checking project extractify-948de for permissions ["cloudfunctions.functions.create","cloudfunctions.functions.delete","cloudfunctions.functions.get","cloudfunctions.functions.list","cloudfunctions.functions.update","cloudfunctions.operations.get","firebase.projects.get"]
+[debug] [2020-10-06T07:42:19.077Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/extractify-948de:testIamPermissions  
+ {"permissions":["cloudfunctions.functions.create","cloudfunctions.functions.delete","cloudfunctions.functions.get","cloudfunctions.functions.list","cloudfunctions.functions.update","cloudfunctions.operations.get","firebase.projects.get"]}
